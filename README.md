@@ -4,7 +4,7 @@ A clean, responsive Product Preview Card Component built using HTML and CSS. Thi
 
 ## 🔍 Preview
 
-![Product Preview Card](https://vermillion-gumption-20e38d.netlify.app/)
+(https://vermillion-gumption-20e38d.netlify.app/)
 
 ## 🚀 Features
 
