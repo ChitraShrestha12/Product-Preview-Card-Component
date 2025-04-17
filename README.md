@@ -21,6 +21,6 @@ A clean, responsive Product Preview Card Component built using HTML and CSS. Thi
 - Google Fonts
 - Font Awesome
 
-## 📁 Project Structure
+
 
 
